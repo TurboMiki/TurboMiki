@@ -19,6 +19,6 @@ I am currently working on latent diffusion models for generating implants for cr
 ![](https://github-contributor-stats.vercel.app/api?username=TurboMiki&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### Visit Count
-[![](https://visitcount.itsvg.in/api?id=TurboMiki&icon=10&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=TurboMiki&icon=10&color=12)](https://visitcount.itsvg.in)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
